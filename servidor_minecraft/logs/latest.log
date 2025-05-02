@@ -1,13 +1,13 @@
-[14:27:14] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[14:27:25] [Server thread/INFO]: Loading properties
-[14:27:25] [Server thread/INFO]: Default game type: SURVIVAL
-[14:27:25] [Server thread/INFO]: Generating keypair
-[14:27:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:27:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:27:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:27:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:27:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:27:26] [Server thread/ERROR]: Encountered an unexpected exception
+[14:30:31] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[14:30:42] [Server thread/INFO]: Loading properties
+[14:30:42] [Server thread/INFO]: Default game type: SURVIVAL
+[14:30:42] [Server thread/INFO]: Generating keypair
+[14:30:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:30:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:30:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:30:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:30:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:30:43] [Server thread/ERROR]: Encountered an unexpected exception
 cpw.mods.fml.common.LoaderException: java.lang.NoClassDefFoundError: net/minecraft/client/multiplayer/WorldClient
 
 	at cpw.mods.fml.common.LoadController.transition(LoadController.java:163) ~[LoadController.class:?]
@@ -115,4 +115,4 @@ Caused by: java.lang.RuntimeException: Attempted to load class bjf for invalid s
 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) ~[LoadController.class:?]
 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:737) ~[Loader.class:?]
 	... 5 more
-[14:27:26] [Server thread/ERROR]: This crash report has been saved to: /workspaces/Juliocalipsis/servidor_minecraft/./crash-reports/crash-2025-05-02_14.27.26-server.txt
+[14:30:43] [Server thread/ERROR]: This crash report has been saved to: /workspaces/Juliocalipsis/servidor_minecraft/./crash-reports/crash-2025-05-02_14.30.43-server.txt
