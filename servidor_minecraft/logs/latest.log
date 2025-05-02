@@ -1,19 +1,20 @@
-[14:45:47] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[14:45:54] [Server thread/INFO]: Loading properties
-[14:45:54] [Server thread/INFO]: Default game type: SURVIVAL
-[14:45:54] [Server thread/INFO]: Generating keypair
-[14:45:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:45:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:45:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:45:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:45:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:45:55] [Server thread/INFO]: Preparing level "world"
-[14:46:00] [Server thread/INFO]: Preparing start region for level 0
-[14:46:00] [Server thread/INFO]: Done (5.464s)! For help, type "help" or "?"
-[15:01:57] [Server thread/INFO]: Najoab123[/127.179.125.151:35543] logged in with entity id 3264 at (-226.5, 66.0, 50.5)
-[15:01:57] [Server thread/INFO]: Najoab123 joined the game
-[15:08:33] [Server thread/INFO]: Opped Najoab123
-[15:08:46] [Server thread/INFO]: [Najoab123: Set own game mode to Creative Mode]
-[15:09:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2991ms behind, skipping 59 tick(s)
-[15:09:38] [Server thread/INFO]: Najoab123 fell out of the world
-[15:09:44] [Server thread/INFO]: Najoab123 has just earned the achievement [Taking Inventory]
+[17:01:12] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[17:01:19] [Server thread/INFO]: Loading properties
+[17:01:19] [Server thread/INFO]: Default game type: SURVIVAL
+[17:01:19] [Server thread/INFO]: Generating keypair
+[17:01:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:01:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:01:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:01:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:01:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:01:21] [Server thread/INFO]: Preparing level "world"
+[17:01:27] [Server thread/INFO]: Preparing start region for level 0
+[17:01:28] [Server thread/INFO]: Preparing spawn area: 55%
+[17:01:28] [Server thread/INFO]: Done (7.221s)! For help, type "help" or "?"
+[17:01:39] [Server thread/INFO]: Leonardo_Messi[/127.10.154.178:47613] logged in with entity id 3664 at (-227.5, 64.0, 54.5)
+[17:01:39] [Server thread/INFO]: Leonardo_Messi joined the game
+[17:04:08] [Server thread/INFO]: Leonardo_Messi has just earned the achievement [Taking Inventory]
+[17:04:33] [Server thread/INFO]: Najoab123[/127.179.125.151:49893] logged in with entity id 5181 at (-225.58889005473253, 64.0, 56.04715822141699)
+[17:04:33] [Server thread/INFO]: Najoab123 joined the game
+[17:05:25] [Server thread/INFO]: Opped Leonardo_Messi
+[17:05:29] [Server thread/INFO]: [Leonardo_Messi: Set own game mode to Creative Mode]
