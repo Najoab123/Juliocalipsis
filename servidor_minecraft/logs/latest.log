@@ -88,3 +88,7 @@ Caused by: java.net.SocketException: Connection reset
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:54) ~[minecraft_server.1.7.10.jar:?]
 	... 25 more
 [20:20:35] [Server thread/INFO]: Najoab123 fell out of the world
+[20:34:11] [Server thread/INFO]: Leonardo_Messi lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:34:11] [Server thread/INFO]: Leonardo_Messi left the game
+[20:36:23] [Server thread/INFO]: Najoab123 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[20:36:23] [Server thread/INFO]: Najoab123 left the game
