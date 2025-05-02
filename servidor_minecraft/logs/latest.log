@@ -18,3 +18,5 @@
 [17:04:33] [Server thread/INFO]: Najoab123 joined the game
 [17:05:25] [Server thread/INFO]: Opped Leonardo_Messi
 [17:05:29] [Server thread/INFO]: [Leonardo_Messi: Set own game mode to Creative Mode]
+[17:30:53] [Server thread/INFO]: Najoab123 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:30:53] [Server thread/INFO]: Najoab123 left the game

@@ -1757,3 +1757,18 @@
 [17:19:29] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [17:20:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [17:20:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:21:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:22:29] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:23:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:23:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:24:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:25:29] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:26:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:26:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:27:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:28:29] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:29:14] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:29:59] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:30:44] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[17:30:53] [Netty IO #7/ERROR] [FML/]: NetworkDispatcher exception
+io.netty.handler.timeout.ReadTimeoutException
