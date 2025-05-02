@@ -32,7 +32,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Who are you",
+    "DialogTitle": "Avestruces",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I'm a villager here. I have lived in this village my whole life.",
+    "DialogText": "Las avestruces son animales bastante comunes en los desiertos y savanas, también son bastante nutritivos! Inclusive se pueden montar, y aunque son mas debiles que los caballos, son mas rapidos que estos.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1746197161317L,
+        "TimePast": 1746213614919L,
         "Time": 0L,
         "Subject": ""
     }

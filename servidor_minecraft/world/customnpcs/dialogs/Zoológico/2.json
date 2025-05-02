@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Las cabras son animales de pastoreo",
+    "DialogText": "Las cabras son animales de pastoreo, no son buenas para alimentarse, aqui un dato curioso, mucha gente suele relacionar a las cabras con futbolistas, yo no lo entiendo.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1746213088465L,
+        "TimePast": 1746213338414L,
         "Time": 0L,
         "Subject": ""
     }

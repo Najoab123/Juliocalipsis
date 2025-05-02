@@ -2,36 +2,6 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
-        {
-            "OptionSlot": 0,
-            "Option": {
-                "DialogCommand": "",
-                "Dialog": 3,
-                "Title": "Who are you?",
-                "DialogColor": 14737632,
-                "OptionType": 1
-            }
-        },
-        {
-            "OptionSlot": 1,
-            "Option": {
-                "DialogCommand": "",
-                "Dialog": 2,
-                "Title": "Tell me something about this village",
-                "DialogColor": 14737632,
-                "OptionType": 1
-            }
-        },
-        {
-            "OptionSlot": 2,
-            "Option": {
-                "DialogCommand": "",
-                "Dialog": -1,
-                "Title": "Goodbye",
-                "DialogColor": 14737632,
-                "OptionType": 0
-            }
-        }
     ],
     "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
@@ -52,7 +22,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Elefantes",
+    "DialogTitle": "New_22",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -60,7 +30,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ah! los mamiferos terrestres mas grandes! No te recomendaria matarlos, son raros de encontrar, dicen que alguien con mucha habilidad y conocimiento puede adiestrar elefantes y ponerles una montura como si fueran caballos!",
+    "DialogText": "test 2",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -77,7 +47,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1746213318016L,
+        "TimePast": 1746213645764L,
         "Time": 0L,
         "Subject": ""
     }
