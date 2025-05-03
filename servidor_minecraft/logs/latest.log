@@ -76,3 +76,20 @@
 [19:13:32] [Server thread/INFO]: NegroArturo was slain by Najoab123
 [19:13:35] [Server thread/WARN]: NegroArturo moved too quickly! -9.9982142017883,11.480710876331699,-0.4504151951828703 (9.9982142017883, 11.480710876331699, 0.4504151951828703)
 [19:14:54] [Server thread/INFO]: [Najoab123: Set Najoab123's spawn point to (-226, 64, 57)]
+[19:15:30] [Server thread/INFO]: <Leonardo_Messi> ./setspawn @a
+[19:15:30] [Server thread/INFO]: <BonnetB> @a
+[19:15:40] [Server thread/INFO]: [Najoab123: Set Najoab123's spawn point to (-226, 64, 58)]
+[19:15:40] [Server thread/INFO]: [Najoab123: Set BonnetB's spawn point to (-289, 100, 106)]
+[19:15:40] [Server thread/INFO]: [Najoab123: Set NegroArturo's spawn point to (-289, 100, 111)]
+[19:15:40] [Server thread/INFO]: [Najoab123: Set Leonardo_Messi's spawn point to (-339, 78, 50)]
+[19:17:33] [Server thread/INFO]: BonnetB has just earned the achievement [The more you know]
+[19:18:09] [Server thread/WARN]: NegroArturo moved too quickly! 1.1227266383211827,1.8292129227811955,25.842217825767804 (1.1227266383211827, 1.8292129227811955, 25.842217825767804)
+[19:18:41] [Server thread/INFO]: NegroArturo fell from a high place
+[19:19:21] [Server thread/WARN]: NegroArturo moved too quickly! 2.2863727129514473,19.501998472213742,55.07976516964705 (2.2863727129514473, 19.501998472213742, 55.07976516964705)
+[19:19:54] [Server thread/WARN]: NegroArturo moved too quickly! 9.501067111792963,-0.5,-5.185005737297352 (9.501067111792963, 0.5, 5.185005737297352)
+[19:20:03] [Server thread/WARN]: NegroArturo moved wrongly!
+[19:23:24] [Server thread/INFO]: NegroArturo hit the ground too hard
+[19:23:39] [Server thread/INFO]: [Najoab123: Opped NegroArturo]
+[19:23:52] [Server thread/INFO]: [BonnetB: Set the time to 1000]
+[19:24:02] [Server thread/INFO]: [NegroArturo: Set own game mode to Creative Mode]
+[19:24:10] [Server thread/INFO]: [Najoab123: Teleported Najoab123 to BonnetB]
