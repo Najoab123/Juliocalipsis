@@ -1,131 +1,23 @@
-[01:52:36] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[01:52:45] [Server thread/INFO]: Loading properties
-[01:52:45] [Server thread/INFO]: Default game type: SURVIVAL
-[01:52:45] [Server thread/INFO]: Generating keypair
-[01:52:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:52:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:52:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:52:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:52:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:52:46] [Server thread/INFO]: Preparing level "world"
-[01:52:51] [Server thread/INFO]: Preparing start region for level 0
-[01:52:52] [Server thread/INFO]: Done (5.519s)! For help, type "help" or "?"
-[01:55:57] [Server thread/INFO]: Leonardo_Messi[/127.10.154.178:57351] logged in with entity id 3705 at (-245.8185821614081, 64.67189265214017, 57.87789866741881)
-[01:55:57] [Server thread/INFO]: Leonardo_Messi joined the game
-[02:07:14] [Server thread/INFO]: BonnetB[/127.52.232.7:43895] logged in with entity id 7529 at (-217.5, 81.0, 58.5)
-[02:07:14] [Server thread/INFO]: BonnetB joined the game
-[02:07:33] [Server thread/INFO]: <BonnetB> hola)
-[02:07:36] [Server thread/INFO]: <Leonardo_Messi> hola
-[02:07:43] [Server thread/INFO]: <BonnetB> sigmaaaa
-[02:07:51] [Server thread/INFO]: <BonnetB> que necesitan que construya
-[02:07:52] [Server thread/INFO]: <Leonardo_Messi> mi amigo el smegma:
-[02:08:04] [Server thread/INFO]: <BonnetB> y esa skin de virgo
-[02:08:32] [Server thread/INFO]: <Leonardo_Messi> vos estas en el ds?
-[02:08:36] [Server thread/INFO]: <BonnetB> se
-[02:08:53] [Server thread/INFO]: <Leonardo_Messi> metete al chat de voz
-[02:09:26] [Server thread/INFO]: BonnetB has just earned the achievement [Taking Inventory]
-[02:11:22] [Server thread/INFO]: [Leonardo_Messi: Opped Bonnetb]
-[02:11:28] [Server thread/INFO]: [BonnetB: Set own game mode to Creative Mode]
-[02:23:01] [Server thread/INFO]: Najoab123[/127.6.180.96:40833] logged in with entity id 15724 at (-222.9847272559722, 69.97978284851712, 58.87329364199399)
-[02:23:01] [Server thread/INFO]: Najoab123 joined the game
-[02:25:11] [Server thread/INFO]: <Najoab123> no se que es eso
-[02:25:47] [Server thread/INFO]: <Najoab123> yo voy a ser el administrador, me encargo de la burocracia mientras julio se rasca los huevos
-[02:26:03] [Server thread/INFO]: <Najoab123> ese mod lo hiba a añadir, perome olvide
-[02:28:43] [Server thread/INFO]: <Najoab123> texturizandola iglesia
-[02:29:03] [Server thread/INFO]: <Najoab123> kayitas
-[02:30:21] [Server thread/INFO]: <Najoab123> unas casitas
-[02:30:26] [Server thread/INFO]: <Najoab123> exacto
-[02:30:51] [Server thread/INFO]: <Najoab123> donde te pinte
-[02:31:24] [Server thread/INFO]: [BonnetB: Set the time to 1000]
-[02:31:58] [Server thread/INFO]: <Najoab123> le tiran de todo a julio
-[02:32:13] [Server thread/INFO]: <Najoab123> no
-[02:32:23] [Server thread/INFO]: <Najoab123> me voy a poner una de aldeano
-[02:34:01] [Server thread/INFO]: <Najoab123> que te parecio la iglesia
-[02:35:30] [Server thread/INFO]: <Najoab123> tendria que ser mas alto
-[02:36:09] [Server thread/INFO]: <Najoab123> es como el techo de mi iglesia
-[02:36:20] [Server thread/INFO]: <Najoab123> que hago?
-[02:38:16] [Server thread/INFO]: <Najoab123> donde hago las casitas?
-[02:44:40] [Server thread/INFO]: <Najoab123> aplanando
-[02:45:01] [Server thread/INFO]: <Najoab123> spawneo un orgo de dos cabezas
-[02:47:25] [Server thread/INFO]: <Najoab123> yo nunca me hice una casa en un server
-[02:51:09] [Server thread/INFO]: <Najoab123> te mande un pack de musica
-[02:51:42] [Server thread/INFO]: <Najoab123> yo tampoco
-[02:56:37] [Server thread/INFO]: <Najoab123> más que facultad de filosofia
-[02:58:46] [Server thread/INFO]: <Najoab123> pueden ver mi caminito y opinar
-[03:00:09] [Server thread/INFO]: <Najoab123> hermoso
-[03:01:08] [Server thread/INFO]: <Najoab123> custom
-[03:01:36] [Server thread/INFO]: [BonnetB: Set the time to 1000]
-[03:02:20] [Server thread/INFO]: <Najoab123> inventen uds, yo no pense en eso
-[03:02:41] [Server thread/INFO]: <Najoab123> mira un aguila
-[03:02:57] [Server thread/INFO]: <Najoab123> bueno. una flecha
-[03:03:10] [Server thread/INFO]: <Najoab123> al racismo
-[03:11:59] [Server thread/INFO]: <Najoab123> viste santi que siempre me toca bioma de taiga
-[03:13:25] [Server thread/INFO]: [BonnetB: Set the time to 1000]
-[03:16:52] [Server thread/INFO]: Najoab123 fell out of the world
-[03:17:45] [Server thread/INFO]: <Najoab123> si
-[03:17:55] [Server thread/INFO]: <Najoab123> no se
-[03:20:55] [Server thread/INFO]: <Najoab123> se reinicia a las 3 horas creo
-[03:21:17] [Server thread/INFO]: <Najoab123> me esta quedando horrible la casita
-[03:23:41] [Server thread/INFO]: [BonnetB: Set the time to 1000]
-[03:33:16] [Server thread/INFO]: <Najoab123> oro
-[03:33:22] [Server thread/INFO]: <Najoab123> si
-[03:33:30] [Server thread/INFO]: Najoab123 has just earned the achievement [Getting Wood]
-[03:33:46] [Server thread/INFO]: <Najoab123> no me gusto la casa, la explote
-[03:34:35] [Server thread/INFO]: <Najoab123> fua, que envidia, uds construyen bien
-[03:35:08] [Server thread/INFO]: <Najoab123> yo no hacer casas
-[03:35:23] [Server thread/INFO]: <Najoab123> bueno, a ver asi aprendo
-[03:38:48] [Server thread/INFO]: <Najoab123> no era compatible el mod de combates
-[03:38:56] [Server thread/INFO]: <Najoab123> con escudos y eso
-[03:39:06] [Server thread/INFO]: <Najoab123> doble mano y esas cosa
-[03:40:00] [Server thread/INFO]: [Najoab123: Changing to clear weather]
-[03:40:12] [Server thread/INFO]: [Najoab123: Set the time to 1000]
-[03:41:38] [Server thread/INFO]: <Najoab123> bueno, mientras continuo el camino
-[03:42:38] [Server thread/INFO]: <Najoab123> para, no rompas todo santi
-[03:42:56] [Server thread/INFO]: <Najoab123> deja esa altura
-[03:43:25] [Server thread/INFO]: <Najoab123> si
-[03:44:58] [Server thread/INFO]: <Najoab123> lo doy
-[03:48:05] [Server thread/INFO]: <Najoab123> mañana a la noche creeria
-[03:48:52] [Server thread/INFO]: <Najoab123> si, pense en las parcelas
-[03:49:16] [Server thread/INFO]: <Najoab123> hasta puedo cobrar la entrada al server
-[03:49:55] [Server thread/INFO]: [Najoab123: Set the time to 1000]
-[03:50:07] [Server thread/INFO]: <Najoab123> que te parece el camino
-[03:50:38] [Server thread/INFO]: <Najoab123> con alfobras y piedra luminosa los bordes
-[03:53:51] [Server thread/INFO]: <Najoab123> fua
-[03:55:45] [Server thread/INFO]: <Najoab123> ok
-[03:56:24] [Server thread/INFO]: <Najoab123> como
-[03:56:38] [Server thread/INFO]: <Najoab123> hermoso todo
-[03:56:47] [Server thread/INFO]: <Najoab123> menos mal los elegi auds
-[03:57:09] [Server thread/INFO]: <Najoab123> no la pense enrealidad
-[03:57:24] [Server thread/INFO]: <Najoab123> sabia lo de las cajas de zapatos
-[04:01:48] [Server thread/INFO]: Najoab123 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[04:01:48] [Server thread/INFO]: Najoab123 left the game
-[04:02:16] [Server thread/INFO]: Najoab123[/127.6.180.96:56497] logged in with entity id 100024 at (-315.04104206706535, 81.20000004768369, 61.21349374845009)
-[04:02:16] [Server thread/INFO]: Najoab123 joined the game
-[04:02:31] [Server thread/INFO]: <Najoab123> que paso?
-[04:03:08] [Server thread/INFO]: Najoab123 lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[04:03:08] [Server thread/INFO]: Najoab123 left the game
-[04:03:10] [Server thread/INFO]: Najoab123[/127.6.180.96:37061] logged in with entity id 100508 at (-314.2052484170275, 81.20000004768369, 61.25622272991892)
-[04:03:10] [Server thread/INFO]: Najoab123 joined the game
-[04:03:32] [Server thread/INFO]: <Najoab123> me esta sacando, no escuche tu historia
-[04:04:06] [Server thread/INFO]: <BonnetB> basicamente me llamaron de mi casa (estoy en la casa de la esquina) para que vaya para alla a hacer
-[04:04:09] [Server thread/INFO]: <BonnetB> algo
-[04:04:18] [Server thread/INFO]: <BonnetB> voy a llevar la compu para cuando me desocupe volver a meterme
-[04:04:29] [Server thread/INFO]: Najoab123 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[04:04:29] [Server thread/INFO]: Najoab123 left the game
-[04:05:01] [Server thread/INFO]: BonnetB lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[04:05:01] [Server thread/INFO]: BonnetB left the game
-[04:07:30] [Server thread/INFO]: Najoab123[/127.6.180.96:38013] logged in with entity id 101922 at (-314.57384115905893, 81.20000004768369, 60.572968224129085)
-[04:07:30] [Server thread/INFO]: Najoab123 joined the game
-[04:07:38] [Server thread/INFO]: <Najoab123> hola
-[04:07:48] [Server thread/INFO]: <Najoab123> el wifi
-[04:07:57] [Server thread/INFO]: <Najoab123> no, no escuche
-[04:08:21] [Server thread/INFO]: <Najoab123> ah, bueno
-[04:09:02] [Server thread/INFO]: <Najoab123> ta bueno
-[04:09:42] [Server thread/INFO]: <Najoab123> amigo, que hermoso todo
-[04:10:04] [Server thread/INFO]: <Najoab123> como no juego nunca minecraft, nunca aprendi a construir
-[04:16:33] [Server thread/INFO]: <Najoab123> y como va todo?
-[04:21:30] [Server thread/INFO]: [Najoab123: Set the time to 1000]
-[04:24:40] [Server thread/INFO]: <Najoab123> mira un golem
-[04:24:56] [Server thread/INFO]: <Najoab123> tira
-[04:25:03] [Server thread/INFO]: <Najoab123> el grande chupa
-[04:25:49] [Server thread/INFO]: <Najoab123> mira soy jugador tecnico
+[04:39:00] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[04:39:09] [Server thread/INFO]: Loading properties
+[04:39:09] [Server thread/INFO]: Default game type: SURVIVAL
+[04:39:09] [Server thread/INFO]: Generating keypair
+[04:39:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:39:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:39:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:39:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:39:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:39:10] [Server thread/INFO]: Preparing level "world"
+[04:39:15] [Server thread/INFO]: Preparing start region for level 0
+[04:39:16] [Server thread/INFO]: Done (5.517s)! For help, type "help" or "?"
+[04:39:45] [Server thread/INFO]: Najoab123[/127.6.180.96:32815] logged in with entity id 3715 at (-287.7266631082554, 80.63455225438149, 55.45788104476474)
+[04:39:45] [Server thread/INFO]: Najoab123 joined the game
+[04:41:13] [Server thread/INFO]: Leonardo_Messi[/127.10.154.178:36177] logged in with entity id 4114 at (-289.52476190433975, 93.92404164091943, 82.18227765913853)
+[04:41:13] [Server thread/INFO]: Leonardo_Messi joined the game
+[04:41:16] [Server thread/INFO]: <Najoab123> hola
+[04:42:21] [Server thread/INFO]: <Najoab123> che, pero no le falta una silla al trono?
+[04:44:20] [Server thread/INFO]: <Najoab123> mira lo que le puse al trono
+[04:44:39] [Server thread/INFO]: Leonardo_Messi has just earned the achievement [The more you know]
+[04:46:22] [Server thread/INFO]: <Najoab123> hace falta una orgia en al atico del castillo
+[04:48:26] [Server thread/INFO]: Leonardo_Messi lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[04:48:26] [Server thread/INFO]: Leonardo_Messi left the game
