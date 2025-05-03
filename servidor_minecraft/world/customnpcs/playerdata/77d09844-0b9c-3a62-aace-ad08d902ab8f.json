@@ -1,0 +1,29 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "NegroArturo",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "77d09844-0b9c-3a62-aace-ad08d902ab8f",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ]
+}
