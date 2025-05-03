@@ -19,3 +19,23 @@
 [16:52:42] [Server thread/INFO]: <Leonardo_Messi> hola
 [16:52:52] [Server thread/INFO]: <Leonardo_Messi> estoy haciendo los barrios pobres
 [16:53:01] [Server thread/INFO]: <BonnetB> quedo tremendo todo
+[16:58:40] [Server thread/INFO]: <BonnetB> wep que puedo hacer?
+[16:59:28] [Server thread/INFO]: <Leonardo_Messi> estaba pensando, capas ocupas este coso de madera para hacer unas barracas para los guardias de la
+[16:59:30] [Server thread/INFO]: <Leonardo_Messi> ciudad
+[16:59:41] [Server thread/INFO]: <BonnetB> barracas en que sentido?
+[16:59:54] [Server thread/INFO]: <Leonardo_Messi> donde duermen y guardan su armas y armaduras digamos
+[17:00:07] [Server thread/INFO]: <BonnetB> ok
+[17:00:47] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[17:01:16] [Server thread/INFO]: --- Showing help page 1 of 10 (/help <page>) ---
+[17:01:16] [Server thread/INFO]: /achievement give <stat_name> [player]
+[17:01:16] [Server thread/INFO]: /bacon
+[17:01:16] [Server thread/INFO]: /ban <name> [reason ...]
+[17:01:16] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[17:01:16] [Server thread/INFO]: /banlist [ips|players]
+[17:01:16] [Server thread/INFO]: /bq_admin edit [true|false], /bq_admin hardcore [true|false], /bq_admin reset [all|<quest_id>] [username|uuid], /bq_admin complete <quest_id> [username|uuid], /bq_admin delete [all|<quest_id>], /bq_admin default [save|load|set] [file_name], /bq_admin lives [add|set|max|default] <value> [username|uuid], /bq_admin purge_hidden_quests
+[17:01:16] [Server thread/INFO]: /bq_npcs reload
+[17:02:35] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[17:02:46] [Server thread/INFO]: [BonnetB: Set the time to 1000]
+[17:02:54] [Server thread/INFO]: [Leonardo_Messi: Toggled downfall]
+[17:03:10] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[17:03:39] [Server thread/INFO]: Set the time to 1500
