@@ -1764,3 +1764,41 @@
 io.netty.handler.timeout.ReadTimeoutException
 [04:48:27] [Server thread/DEBUG] [FML/]: The world e23152b (world) may have leaked: seen 55 times.
 
+[04:49:02] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:49:17] [Server thread/DEBUG] [FML/]: The world e23152b (world) may have leaked: seen 60 times.
+
+[04:49:47] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:50:07] [Server thread/DEBUG] [FML/]: The world e23152b (world) may have leaked: seen 65 times.
+
+[04:50:32] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:50:57] [Server thread/DEBUG] [FML/]: The world e23152b (world) may have leaked: seen 70 times.
+
+[04:51:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:51:47] [Server thread/DEBUG] [FML/]: The world e23152b (world) may have leaked: seen 75 times.
+
+[04:52:02] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:52:37] [Server thread/DEBUG] [FML/]: The world e23152b (world) may have leaked: seen 80 times.
+
+[04:52:47] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:53:27] [Server thread/DEBUG] [FML/]: The world e23152b (world) may have leaked: seen 85 times.
+
+[04:53:32] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:54:17] [Server thread/DEBUG] [FML/]: The world e23152b (world) may have leaked: seen 90 times.
+
+[04:54:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:55:02] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:55:07] [Server thread/DEBUG] [FML/]: The world e23152b (world) may have leaked: seen 95 times.
+
+[04:55:47] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:55:57] [Server thread/DEBUG] [FML/]: The world e23152b (world) may have leaked: seen 100 times.
+
+[04:56:32] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:56:47] [Server thread/DEBUG] [FML/]: The world e23152b (world) may have leaked: seen 105 times.
+
+[04:57:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:57:37] [Server thread/DEBUG] [FML/]: The world e23152b (world) may have leaked: seen 110 times.
+
+[04:58:02] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:58:27] [Server thread/DEBUG] [FML/]: The world e23152b (world) may have leaked: seen 115 times.
+
+[04:58:47] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
