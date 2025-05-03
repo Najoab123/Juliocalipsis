@@ -93,3 +93,14 @@
 [19:23:52] [Server thread/INFO]: [BonnetB: Set the time to 1000]
 [19:24:02] [Server thread/INFO]: [NegroArturo: Set own game mode to Creative Mode]
 [19:24:10] [Server thread/INFO]: [Najoab123: Teleported Najoab123 to BonnetB]
+[19:25:07] [Server thread/INFO]: [BonnetB: Teleported NegroArturo to BonnetB]
+[19:25:34] [Server thread/INFO]: NegroArturo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[19:25:34] [Server thread/INFO]: NegroArturo left the game
+[19:26:06] [Server thread/INFO]: NegroArturo[/127.81.93.76:38913] logged in with entity id 103341 at (-514.7594973978214, 71.99035757431686, 259.1062229199742)
+[19:26:06] [Server thread/INFO]: NegroArturo joined the game
+[19:27:31] [Server thread/WARN]: NegroArturo moved too quickly! 1.3837452472621408,0.0,-12.197055874176272 (1.3837452472621408, 0.0, 12.197055874176272)
+[19:28:15] [Server thread/WARN]: NegroArturo moved too quickly! -0.012801670120097697,-0.8662868240384114,-14.511604582854488 (0.012801670120097697, 0.8662868240384114, 14.511604582854488)
+[19:31:41] [Server thread/WARN]: NegroArturo moved too quickly! -9.641425431670314,2.0,-5.544638050724615 (9.641425431670314, 2.0, 5.544638050724615)
+[19:38:57] [Server thread/INFO]: Najoab123 fell out of the world
+[19:39:23] [Server thread/WARN]: NegroArturo moved too quickly! 4.289856416722273,-3.6655203897402515,8.96663062485652 (4.289856416722273, 3.6655203897402515, 8.96663062485652)
+[19:42:21] [Server thread/WARN]: NegroArturo moved too quickly! -14.825468999709017,-6.46436959742914,-15.556148830858149 (14.825468999709017, 6.46436959742914, 15.556148830858149)
