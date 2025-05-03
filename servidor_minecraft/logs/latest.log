@@ -21,3 +21,7 @@
 [04:46:22] [Server thread/INFO]: <Najoab123> hace falta una orgia en al atico del castillo
 [04:48:26] [Server thread/INFO]: Leonardo_Messi lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
 [04:48:26] [Server thread/INFO]: Leonardo_Messi left the game
+[05:01:57] [Server thread/INFO]: [Najoab123: Set the time to 1000]
+[05:05:29] [Server thread/INFO]: Najoab123 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[05:05:29] [Server thread/INFO]: Najoab123 left the game
+[05:06:23] [Server Shutdown Thread/INFO]: Stopping server
