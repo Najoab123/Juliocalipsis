@@ -1,13 +1,15 @@
-[20:12:03] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[20:12:14] [Server thread/INFO]: Loading properties
-[20:12:14] [Server thread/INFO]: Default game type: SURVIVAL
-[20:12:14] [Server thread/INFO]: Generating keypair
-[20:12:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:12:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:12:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:12:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:12:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:12:16] [Server thread/INFO]: Preparing level "world"
-[20:12:22] [Server thread/INFO]: Preparing start region for level 0
-[20:12:23] [Server thread/INFO]: Preparing spawn area: 42%
-[20:12:24] [Server thread/INFO]: Done (7.656s)! For help, type "help" or "?"
+[17:35:43] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[17:35:54] [Server thread/INFO]: Loading properties
+[17:35:54] [Server thread/INFO]: Default game type: SURVIVAL
+[17:35:54] [Server thread/INFO]: Generating keypair
+[17:35:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:35:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:35:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:35:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:35:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:35:56] [Server thread/INFO]: Preparing level "world"
+[17:36:02] [Server thread/INFO]: Preparing start region for level 0
+[17:36:03] [Server thread/INFO]: Preparing spawn area: 31%
+[17:36:04] [Server thread/INFO]: Done (7.896s)! For help, type "help" or "?"
+[17:42:59] [Server thread/INFO]: BonnetB[/127.52.232.7:51095] logged in with entity id 3719 at (-503.3000000119209, 76.0, 278.91812874413404)
+[17:42:59] [Server thread/INFO]: BonnetB joined the game
