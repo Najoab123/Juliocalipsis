@@ -1,15 +1,14 @@
-[15:46:56] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[15:47:03] [Server thread/INFO]: Loading properties
-[15:47:03] [Server thread/INFO]: Default game type: SURVIVAL
-[15:47:03] [Server thread/INFO]: Generating keypair
-[15:47:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:47:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:47:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:47:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:47:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:47:04] [Server thread/INFO]: Preparing level "world"
-[15:47:08] [Server thread/INFO]: Preparing start region for level 0
-[15:47:09] [Server thread/INFO]: Done (5.038s)! For help, type "help" or "?"
-[15:52:11] [Server thread/INFO]: Najoab123[/127.6.180.96:51923] logged in with entity id 3701 at (-389.4150739374477, 75.99657404410092, 144.5590746581795)
-[15:52:11] [Server thread/INFO]: Najoab123 joined the game
-[15:55:37] [Server thread/INFO]: De-opped Najoab123
+[17:23:36] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[17:23:44] [Server thread/INFO]: Loading properties
+[17:23:44] [Server thread/INFO]: Default game type: SURVIVAL
+[17:23:44] [Server thread/INFO]: Generating keypair
+[17:23:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:23:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:23:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:23:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:23:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:23:46] [Server thread/INFO]: Preparing level "world"
+[17:23:50] [Server thread/INFO]: Preparing start region for level 0
+[17:23:51] [Server thread/INFO]: Done (5.476s)! For help, type "help" or "?"
+[17:29:01] [Server thread/INFO]: NegroArturo[/127.7.14.96:43507] logged in with entity id 3700 at (-505.5727136895545, 67.0, 269.4910840403969)
+[17:29:01] [Server thread/INFO]: NegroArturo joined the game
