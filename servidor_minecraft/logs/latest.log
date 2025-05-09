@@ -12,3 +12,5 @@
 [17:23:51] [Server thread/INFO]: Done (5.476s)! For help, type "help" or "?"
 [17:29:01] [Server thread/INFO]: NegroArturo[/127.7.14.96:43507] logged in with entity id 3700 at (-505.5727136895545, 67.0, 269.4910840403969)
 [17:29:01] [Server thread/INFO]: NegroArturo joined the game
+[17:54:50] [Server thread/INFO]: NegroArturo lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[17:54:50] [Server thread/INFO]: NegroArturo left the game
