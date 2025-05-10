@@ -22,7 +22,4 @@ function blockBreak(e) {
         } else {
             e.player.message("Eres operador, puedes romper bloques.");
         }
-    } else {
-        e.player.message("Bloque fuera del área protegida.");
-    }
 }
