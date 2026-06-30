@@ -1,2 +1,2 @@
-# Juliocalipsis
-el servidor d juliocalipsis
+# JuliocalipsisMinecraft
+El servidor de JuliocalipsisMinecraft
